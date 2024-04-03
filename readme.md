@@ -6,7 +6,7 @@
 
 # Blog
 
-(https://velog.io@semteul)[https://velog.io/@semteul]
+https://velog.io/@semteul
 
 # Contacts
 
