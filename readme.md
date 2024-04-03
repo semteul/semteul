@@ -10,8 +10,9 @@ https://velog.io/@semteul
 
 # Contacts
 
-<semteul32@gmail.com>
-<minseok@chungbuk.ac.kr>
+Personal E-mail : <semteul32@gmail.com>
+
+School E-mail : <minseok@chungbuk.ac.kr>
 
 # Misc
 
