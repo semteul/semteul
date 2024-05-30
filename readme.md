@@ -10,7 +10,3 @@ https://velog.io/@semteul
 Personal E-mail : <semteul32@gmail.com>
 
 School E-mail : <minseok@chungbuk.ac.kr>
-
-# Misc
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=semteul)](https://github.com/semteul/github-readme-stats)
