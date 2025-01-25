@@ -3,7 +3,7 @@
 
 # Blog
 
-[https://kim-minseok.notion.site](https://kim-minseok.notion.site/Minseok-s-184206239c3e80188670f2185b32e0fa)
+[https://minseok.page](https://minseok.page)
 
 # Contacts
 
