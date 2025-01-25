@@ -3,7 +3,7 @@
 
 # Blog
 
-https://velog.io/@semteul
+kim-minseok.notion.site
 
 # Contacts
 
