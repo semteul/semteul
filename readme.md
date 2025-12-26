@@ -3,7 +3,7 @@
 
 # Blog
 
-[https://blog.minseok.page](https://blog.minseok.page)
+[https://minseok.page](https://minseok.page)
 
 # Contacts
 
